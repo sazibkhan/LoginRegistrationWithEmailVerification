@@ -8,7 +8,7 @@
 		<version>2.6.0-RC1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.asl</groupId>
+	<groupId>com.recencysoft</groupId>
 	<artifactId>LoginRegistrationWithEmailVerification</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>LoginRegistrationWithEmailVerification</name>
